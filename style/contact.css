@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Quattrocento Sans', sans-serif;
+    height: 40vw;
+}
+.foot-1{
+
+    width: 100%;
+    background-color:#ffaa4e ;
+    color: white;
+}
+
+.foot-2{
+   
+    width: 100%;
+    background-color: #ffa23d;
+    color: white;
+    
+}
+.second-con{
+    background-color:#f0f0ef ;
+    width: 80%;
+
+}
